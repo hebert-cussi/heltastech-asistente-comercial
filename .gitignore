@@ -1,0 +1,17 @@
+# Secretos: la API key nunca va al repositorio
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Material del curso: es del docente, no del equipo. Solo se sube la guía de conceptos.
+material/*
+!material/README.md
+
+# Copias de trabajo locales
+README copy.md
