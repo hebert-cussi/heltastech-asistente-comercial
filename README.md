@@ -8,7 +8,7 @@
 | Repositorio | https://github.com/hebert-cussi/heltastech-asistente-comercial |
 | Notebook en Colab (con salidas) | https://colab.research.google.com/drive/1-gulaP-QwX5RCS2lzO9Hyz6Ogk7iz51F |
 | Video de la demo (3 a 5 min) | https://drive.google.com/file/d/1k3MyeX7UyzRH3PsFqy631e9p5Q8-mwLK/view |
-| Equipo | Hebert Eland Cussi Cuentas |
+| Equipo | Hebert Erland Cussi Cuentas |
 
 **Regla de las consignas:** se usan **datos simulados o públicos**, nunca datos reales de clientes. Los precios del catálogo son valores de referencia para el prototipo, no una oferta comercial.
 
